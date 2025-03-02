@@ -44,7 +44,7 @@ sem8/
 ### Steps
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/yourusername/SmartScripts.git
+   https://github.com/himanshumaurya0007/SmartScripts.git
    cd SmartScripts
    ```
 2. **Check the 'Folder Creation Sript' Folder**
