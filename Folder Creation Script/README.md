@@ -44,8 +44,9 @@ sem8/
 ### Steps
 1. **Clone the Repository**
    ```sh
-   https://github.com/himanshumaurya0007/SmartScripts.git
+   git clone https://github.com/himanshumaurya0007/SmartScripts.git
    cd SmartScripts
+   cd 'Folder Creation Script'
    ```
 2. **Check the 'Folder Creation Sript' Folder**
    - Navigate to the `Folder Creation Sript` folder to see the python script.
