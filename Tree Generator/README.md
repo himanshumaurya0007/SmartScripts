@@ -6,7 +6,7 @@ TreeGenerator is a Python script that automates the visualization of a folder st
 ## 📂 Folder Structure Output Example  
 When executed, the script generates a structured tree format like this:  
 ```
-E:\Himanshu\Coding\project 
+Coding\project 
 ├── a.py  
 ├── data  
 │   ├── dataset.csv  
